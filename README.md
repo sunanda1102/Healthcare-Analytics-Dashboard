@@ -30,37 +30,35 @@ Relationships were created using Primary Keys and Foreign Keys.
 
 ## 📊 Key Business Analysis
 
-✔ Total Patients Count  
-✔ Top 5 Hospitals by Appointment Volume  
-✔ Average Bill Amount per Diagnosis  
-✔ Doctor-wise Appointment Performance  
-✔ Total Revenue per Hospital  
-✔ Patient Age Group Distribution  
-✔ Monthly Appointment Trends (2024)  
-✔ Top 3 Most Common Diagnoses  
-✔ Patients Visiting Multiple Hospitals  
+Interactive KPI Cards (Total Patients, Appointments, Revenue, Average Bill)
+Diagnosis-wise appointment analysis
+Doctor performance tracking
+Hospital-wise revenue comparison
+Monthly revenue & appointment trend analysis
+Age & Gender distribution insights
 
+Dynamic slicers for better filtering
 ---
 
 ## 📈 Dashboard Insights
 
-- Identified high-revenue hospitals
-- Analyzed most common diagnoses
-- Evaluated experienced cardiologists
-- Segmented patients by age group and gender
-- Tracked appointment growth trends
+61+ age group has the highest patient volume
+Flu and Diabetes are the most common diagnoses
+Revenue is concentrated among top hospitals
+Mid-year revenue dip indicates seasonal fluctuation
+Doctor billing performance varies significantly
 
 ---
 
 ## 💡 Skills Demonstrated
 
-- Database Design
-- Joins & Aggregations
-- Group By & Having
-- Case Statements
-- Revenue Analysis
-- Business Insight Generation
-- Data Visualization
+Database creation using SQL
+Data cleaning and aggregation
+Import dataset into Power BI
+Data modeling and relationships
+DAX measure creation
+Dashboard development
+Business insight generation
 
 ---
 
