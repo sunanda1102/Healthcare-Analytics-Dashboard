@@ -31,10 +31,15 @@ Relationships were created using Primary Keys and Foreign Keys.
 ## 📊 Key Business Analysis
 
 Interactive KPI Cards (Total Patients, Appointments, Revenue, Average Bill)
+
 Diagnosis-wise appointment analysis
+
 Doctor performance tracking
+
 Hospital-wise revenue comparison
+
 Monthly revenue & appointment trend analysis
+
 Age & Gender distribution insights
 
 Dynamic slicers for better filtering
@@ -43,9 +48,13 @@ Dynamic slicers for better filtering
 ## 📈 Dashboard Insights
 
 61+ age group has the highest patient volume
+
 Flu and Diabetes are the most common diagnoses
+
 Revenue is concentrated among top hospitals
+
 Mid-year revenue dip indicates seasonal fluctuation
+
 Doctor billing performance varies significantly
 
 ---
@@ -53,11 +62,17 @@ Doctor billing performance varies significantly
 ## 💡 Skills Demonstrated
 
 Database creation using SQL
+
 Data cleaning and aggregation
+
 Import dataset into Power BI
+
 Data modeling and relationships
+
 DAX measure creation
+
 Dashboard development
+
 Business insight generation
 
 ---
